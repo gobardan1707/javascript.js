@@ -29,3 +29,15 @@ console.log(true)
 console.log(+true)
 console.log("")
 console.log(+"")
+
+let num1,num2,num3;
+num1=num2=num3=2+2
+ 
+let gamechanger = 100
+++gamechanger;
+console.log(gamechanger)
+console.log(gamechanger++);
+
+// ++x will the increase the value of x before the program to undertand in detail check the below link.
+
+//link for operations https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
