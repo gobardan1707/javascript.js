@@ -12,4 +12,7 @@
 
 //reference(non primitive )
  // arrays,objects,functuions
+// the primitive datatypes are those data types whose values are defined and cannot be changed and non primitive datatype are those data types which can be changed they are mutable
+let array=[12,2,3]
+console.log(typeof array)
 
