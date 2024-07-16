@@ -1,5 +1,5 @@
 //const tinder=new object()
-const tinder = {}
+/*const tinder = {}
 tinder.id = "123abc"
 tinder.username= "durga"
 tinder.isLoggedIn=false
@@ -28,7 +28,7 @@ console.log(obj4)
 console.log(obj5)
 console.log(obj6)*/
 
-const users=(
+/*const users=(
     {
         id:"ufhewhfu",
         email:"djsn@gamil.com"
@@ -47,4 +47,33 @@ const course = {
 //const { coursename}=course
 //console.log(coursename)
 const {coursename:intro} =course
-console.log(intro)
+console.log(intro) */
+
+
+
+
+
+
+//DECONSTJRUCTING OF OBJECTS WE CAN ALSO DECONSTRUCT ARRAYS BUT IT IS RARE 
+
+const course = {
+    name:"gobi",
+    company :"atlassian",
+    salary :"54LPA",F
+    
+}
+console.log(coursename)
+const {name,company,salary} = course 
+console.log(name);
+console.log(salary);
+
+// JASON JAVASRIPT OBJECT NOTION 
+{
+
+}
+and
+[
+    {}
+    {}
+    {}
+]
